@@ -11,6 +11,22 @@ a {
   color: #fff;
 }
 
+button {
+  display: block;
+  margin: 0 auto;
+  background-color: #4ECCA3;
+  color: #fff;
+  margin: 30px auto;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #009688;
+}
+
 footer {
   color: #eee;
 }
