@@ -1,8 +1,9 @@
 body {
   background-color: #393E46;
+  font-family: 'Indie Flower', cursive;
   color: #4ECCA3;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+
   width: 70%;
   margin: auto;
 }
@@ -13,7 +14,7 @@ a {
 
 button {
   display: block;
-  margin: 0 auto;
+  font-family: 'Indie Flower', cursive;
   background-color: #4ECCA3;
   color: #fff;
   margin: 30px auto;
@@ -42,4 +43,14 @@ footer {
 .dice {
   display: inline-block;
   margin: 0 5%;
+}
+
+.announcement {
+  font-size: 1.6rem;
+}
+
+.winner img {
+  border: 5px solid gold;
+  background-color: gold;
+  border-radius: 10px;
 }
